@@ -1,11 +1,17 @@
 Assignment 1.3 — Terminal & Developer Workflow
+
+
 Aim
+
+
 To create a project folder structure using terminal commands and practise basic file and folder operations.
 1. Creating the Project Folder
 First, open the terminal and type the following command:
 mkdir web-development-practice
 
 This command creates a folder named web-development-practice.
+
+
 2. Creating Week Folders
 Enter the project folder:
 cd web-development-practice
